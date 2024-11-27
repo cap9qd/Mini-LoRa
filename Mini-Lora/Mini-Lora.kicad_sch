@@ -3952,7 +3952,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.949 67.31) (xy 231.14 67.31)
+			(xy 78.359 114.173) (xy 82.55 114.173)
 		)
 		(stroke
 			(width 0)
@@ -3962,7 +3962,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.949 69.85) (xy 231.14 69.85)
+			(xy 78.359 116.713) (xy 82.55 116.713)
 		)
 		(stroke
 			(width 0)
@@ -4132,7 +4132,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.949 72.39) (xy 231.14 72.39)
+			(xy 78.359 119.253) (xy 82.55 119.253)
 		)
 		(stroke
 			(width 0)
@@ -4722,7 +4722,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.949 74.93) (xy 231.14 74.93)
+			(xy 78.359 121.793) (xy 82.55 121.793)
 		)
 		(stroke
 			(width 0)
@@ -5063,7 +5063,7 @@
 		(uuid "034fd0d5-4808-49b3-b8ec-ff31c02d9c0e")
 	)
 	(label "A2"
-		(at 231.14 74.93 180)
+		(at 82.55 121.793 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5140,7 +5140,7 @@
 		(uuid "1c21dab6-9b71-41d0-9885-91038f02c3bd")
 	)
 	(label "3V3"
-		(at 231.14 69.85 180)
+		(at 82.55 116.713 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5448,7 +5448,7 @@
 		(uuid "bbd39a00-433f-45cd-84de-e91324074985")
 	)
 	(label "GND"
-		(at 231.14 67.31 180)
+		(at 82.55 114.173 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5569,7 +5569,7 @@
 		(uuid "e9963a86-a3ec-4f2d-8e27-623c98bb4d34")
 	)
 	(label "A3"
-		(at 231.14 72.39 180)
+		(at 82.55 119.253 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6297,7 +6297,7 @@
 	)
 	(symbol
 		(lib_id "Mini-Lora-eagle-import:CON_HEADER_1X04'NO_LOCK'")
-		(at 241.3 77.47 0)
+		(at 92.71 124.333 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6306,7 +6306,7 @@
 		(dnp no)
 		(uuid "4fe6460d-e348-491b-b11d-bea9781185f5")
 		(property "Reference" "I2C1"
-			(at 239.141 63.754 0)
+			(at 90.551 110.617 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6315,7 +6315,7 @@
 			)
 		)
 		(property "Value" "CON_HEADER_1X04'NO_LOCK'"
-			(at 240.03 80.01 0)
+			(at 91.44 126.873 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6325,7 +6325,7 @@
 			)
 		)
 		(property "Footprint" "Mini-Lora:1X04_NO_LOCK"
-			(at 241.3 77.47 0)
+			(at 92.71 124.333 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6334,7 +6334,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 77.47 0)
+			(at 92.71 124.333 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6343,7 +6343,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 77.47 0)
+			(at 92.71 124.333 0)
 			(effects
 				(font
 					(size 1.27 1.27)
