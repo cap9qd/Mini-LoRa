@@ -1,4 +1,4 @@
-23851363011310755
+23853095744776933
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54509,6 +54509,13 @@ PM2414
 2
 2
 Curtis_Items
+PinHeader_1x04_P2.54mm_Horizontal_SMD
+Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x04 2.54mm single row
+0
+4
+4
+Curtis_Items
 SuperMini NRF52840
 
 
@@ -64600,8 +64607,8 @@ PAD-JUMPER-SWAP
 
 
 0
-6
-6
+10
+4
 Mini-Lora
 RFM95
 
